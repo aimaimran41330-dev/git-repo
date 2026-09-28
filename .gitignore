@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
+# large data — documented in README, not uploaded
+*.csv
+dataset/
