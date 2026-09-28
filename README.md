@@ -30,6 +30,8 @@ Best model: Random Forest — matches the paper's finding.
 2. Run all cells (dataset downloads automatically via kagglehub)
 3. Outputs: metrics table, confusion matrix, saved model (.pkl)
 
+   Reviewd by Nawal Shafiq verified n tested
+
 ## Files
 - Customer_Satisfaction_Prediction_Olist.ipynb — main project
 - requirements.txt — dependencies
